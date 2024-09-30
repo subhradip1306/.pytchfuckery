@@ -14,5 +14,7 @@
    - <a href=https://kaprekar.sourceforge.net/output/sample.php> Know more about kaprekar contants </a>
 3. **Goated Prime checker**
    - Outputs prime numbers between 1 and n where n is a number we input
-4. 
+4. **Golden Spiral**
+   - Traces out the golden spiral till the distance and upto the accuracy that we input
+5. 
 
