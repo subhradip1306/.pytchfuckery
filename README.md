@@ -12,4 +12,7 @@
 2. **Kaprekar**
    - Outputs Kaprekar constants
    - <a href=https://kaprekar.sourceforge.net/output/sample.php> Know more about kaprekar contants </a>
+3. **Goated Prime checker**
+   - Outputs prime numbers between 1 and n where n is a number we input
+4. 
 
