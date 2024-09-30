@@ -16,5 +16,12 @@
    - Outputs prime numbers between 1 and n where n is a number we input
 4. **Golden Spiral**
    - Traces out the golden spiral till the distance and upto the accuracy that we input
-5. 
+5. **one-one checker**
+   - For any function we input (with domain Z), checks whether the function is one-one or not
+   - Has it's limitations of course, since it can't actually compute for the infinite number of elements in Z
+     * What it does instead is stop right when there are two identical f(x)'s for two different x's within the domain when computing the range
+     * So all it can really tell you is if the function is many-one *yet*
+6. **Take me to Kaprekar**
+   - Any 4 digit number with at least two distinct digits (leading 0's allowed), when put through <a href=https://en.m.wikipedia.org/wiki/Kaprekar%27s_routine> the kaprekar routine </a>
+   - This program computes the highest number of iterations needed until the answer becomes 6174
 
