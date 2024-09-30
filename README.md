@@ -22,7 +22,7 @@
      - What it does instead is stop right when there are two identical f(x)'s for two different x's within the domain when computing the range
      - So all it can really tell you is if the function is many-one *yet*
 6. **Take me to Kaprekar**
-   * Any 4 digit number with at least two distinct digits (leading 0's allowed), when put through <a href=https://en.m.wikipedia.org/wiki/Kaprekar%27s_routine> the kaprekar routine </a>
+   * Any 4 digit number with at least two distinct digits (leading 0's allowed), when put through <a href=https://en.m.wikipedia.org/wiki/Kaprekar%27s_routine> the kaprekar routine </a>, will eventually give you 6174
    * This program computes the highest number of iterations needed until the answer becomes 6174
 7. **Power**
    * Outputs the power set of the set we input
