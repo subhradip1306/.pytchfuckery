@@ -18,7 +18,7 @@ oneone=True
 while oneone:
     n+=1
     
-    print('jhingalala')
+    print(f'{n}th turn')
     
     x=n
     xpts.append(x)
@@ -28,8 +28,7 @@ while oneone:
     x=-n
     xpts.append(x)
     ypts.append(eval(y))
-        
-    print("jhingu")
+       
         
     if len(ypts)==2:
         ypts.pop(0)
