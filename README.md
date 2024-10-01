@@ -25,4 +25,4 @@
    * Any 4 digit number with at least two distinct digits (leading 0's allowed), when put through <a href=https://en.m.wikipedia.org/wiki/Kaprekar%27s_routine> the kaprekar routine </a>, will eventually give you 6174
    * This program computes the highest number of iterations needed until the answer becomes 6174
 7. **Power**
-   * Outputs the power set of the set we input
+   * Outputs the power set of any* set we input (the elements need to be numbers)
