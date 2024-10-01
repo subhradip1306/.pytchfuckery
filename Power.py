@@ -1,4 +1,5 @@
 import math
+import random
 
 n=int(input("What is the cardinality of the set? "))
 setX=set()
@@ -16,7 +17,8 @@ print(subset)
 powerset={frozenset(setX), frozenset(set())}
 for k in range(2**n):
     
-    for m in setX:
+    
+            m=random.randint(0, len(subset))
             subset.remove(m)
             print("subset is", subset)
             powerset.add(frozenset(subset))
