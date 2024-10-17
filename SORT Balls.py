@@ -37,9 +37,7 @@ n=0
 
 for l in checkA:
     try:
-        INITIALstr[l], INITIALstr[checkB[n]]=INITIALstr[checkB[n]], INITIALstr[l]
-
-    n+=1
+        INITIALstr[checkA[l]], INITIALstr[checkB[l]=INITIALstr[checkB[l]], INITIALstr[checkA[l]]
 
     except: 
         break
