@@ -26,3 +26,6 @@
    * This program computes the highest number of iterations needed until the answer becomes 6174
 7. **Power**
    * Outputs the power set of any set we input.
+8. **SORT Balls**
+   * Sorts any random string 0s and 1s with all 0s on one end and all 1s on the other end
+   * Outputs the minimum number of swaps to do so
