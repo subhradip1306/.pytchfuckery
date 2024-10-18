@@ -35,9 +35,19 @@ print(checkB)
   
 n=0
 
-for l in checkA:
-    try:
-        INITIALstr[checkA[l]], INITIALstr[checkB[l]=INITIALstr[checkB[l]], INITIALstr[checkA[l]]
 
-    except: 
-        break
+if len(checkA)>=len(checkB):
+    for l in len(checkA):
+        try:
+            INITIALstr[checkA[l]], INITIALstr[checkB[l]=INITIALstr[checkB[l]], INITIALstr[checkA[l]]
+
+        except: 
+            break
+
+else:
+    for l in len(checkB):
+        try:
+            INITIALstr[checkA[l]], INITIALstr[checkB[l]=INITIALstr[checkB[l]], INITIALstr[checkA[l]]
+
+        except: 
+            break
