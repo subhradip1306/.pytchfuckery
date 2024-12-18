@@ -29,3 +29,6 @@
 8. **SORT Balls**
    * Sorts any random string 0s and 1s with all 0s on one end and all 1s on the other end
    * Outputs the minimum number of swaps to do so
+9. **FLIP**
+   * A CLI game where we're given a 3x3 grid of 0's and 1's, with the goal of flipping all the elements to 1
+   * You can choose any element of your choice to flip however there's a catch...
