@@ -32,3 +32,4 @@
 9. **FLIP**
    * A CLI game where we're given a 3x3 grid of 0's and 1's, with the goal of flipping all the elements to 1
    * You can choose any element of your choice to flip however there's a catch...
+   * <a href=https://www.jaapsch.net/puzzles/lomath.htm> Some math related to this game and more </a>
