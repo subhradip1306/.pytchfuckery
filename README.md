@@ -1,4 +1,4 @@
-# Python Programs I made during my first semester at IISER-K
+# Python Programs I made during my first semester of BS-MS
 ---
 
 ### A brief idea of what each program does:
