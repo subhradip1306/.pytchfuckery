@@ -12,8 +12,8 @@ def flip(x):
 
 grid=[0,0,0,0,0,0,0,0,0]
 
-for j in grid:
-    j=rn.randint(0,1)
+for j in range(9):
+    grid[j]=rn.randint(0,1)
 
 grid[rn.randint(0,8)]=0
 
